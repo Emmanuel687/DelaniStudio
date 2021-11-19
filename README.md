@@ -9,12 +9,13 @@ HTMl is for the skeleton of body
 CSS has been used to style
 Javascript for funtionilty
 ## Link
-
+https://github.com/Emmanuel687/DelaniStudio.git
 ## Support and contact details
 In case of any issues or alert,feel free to contact me via: E-mail: koechemmanuel2002@gmail.com Phone: 0713598794
 ## Know bugs
 None
 ### License
 *{See below for more details on licensing.}*
+
 This is under the [MIT](LICENSE) license
 Copyright (c) {2021} **{Emmanuel Koech}**
